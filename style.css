@@ -1,7 +1,26 @@
 h1{
     font-size: 30px;
     font-variant-caps: all-petite-caps;
+    
 }
 h2{
-    font-size: 15px;
+    font-size: 16px;
+    text-decoration: underline blue;
+}
+
+ul{
+    font-size: 16px;
+    font: Serif;
+}
+
+#section-1{
+    background-color:rgb(218, 239, 252);
+    border-radius: 10px;
+    border: 5px solid whitesmoke;
+}
+
+#section-2{
+    background-color: rgba(172, 177, 182, 0.205);
+    border-radius: 10px;
+    border: 5px solid whitesmoke;
 }
